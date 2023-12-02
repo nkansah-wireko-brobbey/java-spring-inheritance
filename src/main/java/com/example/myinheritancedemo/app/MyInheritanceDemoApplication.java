@@ -1,4 +1,4 @@
-package com.example.myinheritancedemo;
+package com.example.myinheritancedemo.app;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
